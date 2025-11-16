@@ -26,7 +26,7 @@ const mockSubscriptions = [
 ]
 
 export default function App() {
-  const API_BASE = (import.meta?.env && import.meta.env.VITE_API_BASE_URL) ? import.meta.env.VITE_API_BASE_URL : '/api'
+  const API_BASE = (import.meta?.env && import.meta.env.VITE_API_BASE) ? import.meta.env.VITE_API_BASE : '/api'
   const [email, setEmail] = useState('')
   const [emailError, setEmailError] = useState('')
   const [otp, setOtp] = useState('')
