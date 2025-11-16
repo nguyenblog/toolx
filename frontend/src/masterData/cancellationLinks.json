@@ -1,0 +1,17 @@
+[
+  {
+    "key": "spotify",
+    "renewUrl": "https://www.spotify.com/account/subscription/",
+    "cancelUrl": "https://www.spotify.com/account/subscription/"
+  },
+  {
+    "key": "netflix",
+    "renewUrl": "https://www.netflix.com/youraccount",
+    "cancelUrl": "https://www.netflix.com/youraccount"
+  },
+  {
+    "key": "openai",
+    "renewUrl": "https://platform.openai.com/account/billing/overview",
+    "cancelUrl": "https://platform.openai.com/account/billing/overview"
+  }
+]

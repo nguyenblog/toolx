@@ -1,0 +1,11 @@
+[
+  { "email": "user@example.com", "name": "Spotify Premium", "startDate": "2025-06-20", "cycle": "month", "nextBillingDate": "2025-11-18", "cost": 59900, "status": "active" },
+  { "email": "user@example.com", "name": "Netflix Standard", "startDate": "2025-09-20", "cycle": "month", "nextBillingDate": "2025-11-19", "cost": 180000, "status": "warning" },
+  { "email": "user@example.com", "name": "OpenAI Plus", "startDate": "2025-05-16", "cycle": "month", "nextBillingDate": "2025-11-16", "cost": 550000, "status": "expired" },
+  { "email": "user@example.com", "name": "Figma Professional", "startDate": "2025-11-15", "cycle": "month", "nextBillingDate": "2025-11-17", "cost": 300000, "status": "active" },
+  { "email": "user@example.com", "name": "Gemini Pro Full (1 năm)", "startDate": "2025-11-15", "cycle": "year", "nextBillingDate": "2026-11-15", "cost": 380000, "status": "active" },
+  { "email": "user@example.com", "name": "Claude Pro Full (1 năm)", "startDate": "2025-11-15", "cycle": "year", "nextBillingDate": "2026-11-15", "cost": 450000, "status": "active" },
+  { "email": "demo@domain.com", "name": "Figma Professional", "startDate": "2025-04-21", "cycle": "month", "nextBillingDate": "2025-11-21", "cost": 300000, "status": "active" },
+  { "email": "demo@domain.com", "name": "Adobe Creative Cloud", "startDate": "2025-02-19", "cycle": "year", "nextBillingDate": "2025-11-19", "cost": 450000, "status": "warning" },
+  { "email": "demo@domain.com", "name": "Github Copilot", "startDate": "2025-10-16", "cycle": "month", "nextBillingDate": "2025-11-16", "cost": 199000, "status": "expired" }
+]
