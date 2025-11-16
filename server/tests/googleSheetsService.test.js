@@ -13,9 +13,9 @@ test('daysBetween computes correct delta', () => {
   expect(daysBetween(a, b)).toBe(5)
 })
 
-test('calculateReminderTag gives remind-5 and remind-1', () => {
+test('calculateReminderTag gives remind-4 and remind-1', () => {
   const now = new Date('2025-11-10')
-  expect(calculateReminderTag(now, '2025-11-15')).toBe('remind-5')
+  expect(calculateReminderTag(now, '2025-11-14')).toBe('remind-4')
   expect(calculateReminderTag(now, '2025-11-11')).toBe('remind-1')
   expect(calculateReminderTag(now, '2025-11-20')).toBeNull()
 })
